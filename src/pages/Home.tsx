@@ -4,7 +4,7 @@ const Home = () =>
 {
     return (
         <div className="vw-100 vh-100">
-            <div className="w-100 h-50 d-flex justify-content-center align-items-center">
+            <div className="w-100 h-50 d-flex justify-content-center align-items-center p-4">
                 <img
                     src={Logo}
                     alt="Logo"
@@ -17,7 +17,7 @@ const Home = () =>
             </div>  
 
             <div className="w-100 h-50 bg-black gray-top-border d-flex justify-content-center align-items-center">
-                <div>
+                <div className="p-3">
                     <h1 className="text-orange">ABOUT</h1>
                     <h3>Our mission is to keep things simple.</h3>
                     <br/>
