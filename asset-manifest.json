@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.js": "/occam/static/js/main.9eea8a29.js",
+    "main.css": "/occam/static/css/main.f39733ed.css",
+    "main.js": "/occam/static/js/main.f112ded8.js",
     "static/js/787.79093d98.chunk.js": "/occam/static/js/787.79093d98.chunk.js",
     "index.html": "/occam/index.html",
-    "main.9eea8a29.js.map": "/occam/static/js/main.9eea8a29.js.map",
+    "main.f39733ed.css.map": "/occam/static/css/main.f39733ed.css.map",
+    "main.f112ded8.js.map": "/occam/static/js/main.f112ded8.js.map",
     "787.79093d98.chunk.js.map": "/occam/static/js/787.79093d98.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9eea8a29.js"
+    "static/css/main.f39733ed.css",
+    "static/js/main.f112ded8.js"
   ]
 }
