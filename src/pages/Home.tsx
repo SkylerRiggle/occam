@@ -8,6 +8,7 @@ const Home = () =>
                 <img
                     src={Logo}
                     alt="Logo"
+                    height="80%"
                 />
                 <div>
                     <h1>OCCAM LLC.</h1>
