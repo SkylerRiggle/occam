@@ -1,10 +1,12 @@
+import Logo from "../images/Logo.webp";
+
 const Home = () =>
 {
     return (
         <div className="vw-100 vh-100">
             <div className="w-100 h-50 d-flex justify-content-center align-items-center">
                 <img
-                    src=""
+                    src={Logo}
                     alt="Logo"
                 />
                 <div>
