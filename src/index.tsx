@@ -5,6 +5,7 @@ import Site from './Site';
 
 /** Global CSS */
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './styles/globals.scss';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
