@@ -1,7 +1,11 @@
+import Home from "./pages/Home";
+
 const Site = () =>
 {
     return (
-        <>What's Up Jay-Rod!</>
+        <>
+            <Home />
+        </>
     );
 }
 

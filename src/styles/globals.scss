@@ -1,0 +1,26 @@
+$background-gray: #1a1a1a;
+$accent-gray: #333333;
+$occam-orange: #F16522;
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: white;
+}
+
+body {
+    background-color: $background-gray;
+    position: relative;
+    overflow-x: hidden;
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+.gray-top-border {
+    border-top: 1rem solid $accent-gray;
+}
+
+.text-orange {
+    color: $occam-orange;
+}
