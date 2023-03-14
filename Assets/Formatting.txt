@@ -1,0 +1,6 @@
+#0f0f0f, (black)
+#ed6529, (red-orange)
+#5b545b, (medium-gray)
+#444444, (black-sea)
+
+Font: Agency FB (Bold) https://learn.microsoft.com/en-us/typography/font-list/agency-fb
